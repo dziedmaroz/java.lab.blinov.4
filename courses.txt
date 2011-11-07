@@ -1,0 +1,151 @@
+The Beauty and Joy of Computing	 
+Analysis of Algorithms	 
+Understanding Computers and the Internet	 
+Beginning iOS SDK Programming	 
+Practical Aspects of Modern Cryptography	 
+Computer Language Engineering	 
+Programming Languages	 
+Building Mobile Applications - Android/iOS Apps	 
+Search Engines: Technology, Society, and Business	 
+The Structure and Interpretation of Computer Programs	 
+Programming Languages and Compilers	 
+Introduction to Computer Science and Programming	 
+Data Structures	 
+Computer Science 1	 
+Structure and Interpretation of Computer Programs	 
+Donald Knuth: Musings and More (Video Collection)	 
+How I Invented the Personal Computer (Steve Wozniak)	 
+Data Structures and Advanced Programming (Java)	 
+Introduction to Symbolic Programming	 
+Circuits and Electronics	 
+3D Modeling, Animation and Rendering with Blender	 
+Data Structures and Advanced Programming	 
+Vision Algorithms	 
+Principles of Digital Communication II	 
+iPhone Application Development	 
+Human Beings and the Machines of Sunshine	 
+Compilers: Principles, Techniques, and Tools	 
+Personal Robots	 
+Building Very Small Mobile Micro-Robots	 
+Computational Camera and Photography	 
+Creating a Science of Games	 
+Sky.NET Simulations	 
+Software Breakthroughs (Bill Gates)	 
+Alan Turing: Codebreaker and AI Pioneer	 
+The Semantic Web (Tim Berners-Lee)	 
+Introduction to Embedded Systems	 
+Functional Programming in Scheme	 
+Introduction to Computing Systems	 
+Reshaping Space, Time and Energy	 
+Computers in Our World (Brian Kernighan)	 
+Introduction to Computer Graphics	 
+Introduction to Computer Graphics	 
+Logic Programming	 
+Game Programming	 
+Principles of Computer Systems	 
+Introduction to Database Systems	 
+Techniques in Artificial Intelligence	 
+Computer System Architecture	 
+Introduction to Artificial Intelligence	 
+Introduction to Java	 
+Introduction to Programming (Java)	 
+Computational Molecular Biology	 
+Machine Learning	 
+Computer Communication and Networks	 
+Tools for Software Development	 
+Software Engineering	 
+Formal Models in Computer Science	 
+Data Structures	 
+Machine Organization and Assembly	 
+Introduction to Database Systems	 
+Operating Systems	 
+Advanced Internet and Web Services	 
+Computer Vision	 
+Software for Embedded Systems	 
+Advanced Digital Design	 
+Computer Design and Organization	 
+Introduction to Artificial Intelligence	 
+Introduction to Data Compression	 
+Neurobotics	 
+Computer Systems	 
+Artificial Intelligence	 
+Algorithms and Computational Complexity	 
+Implementation of Programming Languages	 
+Software Engineering	 
+Computational Neuroscience	 
+Data Mining	 
+Computer Graphics: Visualization	 
+Image and Video Analysis	 
+Quantum Computing	 
+Programming Languages (Haskell)	 
+Computer Vision	 
+Programming Languages (Scheme)	 
+Database Systems	 
+Real-Time Rendering	 
+Introduction to Computer Graphics	 
+Animation	 
+Image Synthesis	 
+Big Data in Computer Graphics	 
+Advanced Computer Graphics	 
+Game Design	 
+Information Visualization	 
+Introduction to Computation (Java)	 
+Computer Graphics	 
+Grid Computing	 
+Computer Graphics	 
+Principles of Digital Communication I	 
+Input/Output-Algorithms	 
+Communication System Design	 
+Microelectronic Devices and Circuits	 
+Software Engineering Concepts	 
+Logic II	 
+Fundamentals of Computing (Python)	 
+Applied Parallel Computing	 
+Multithreaded Parallelism: Languages and Compilers	 
+Introduction to C++	 
+Programming Languages and Translators	 
+Introduction to Algorithms - Python	 
+Ambient Intelligence	 
+Programming Principles in Java	 
+Data Structures and Algorithms	 
+Introduction to C	 
+Introduction to C++	 
+Advanced C++	 
+Introduction to Java	 
+Introduction to Haskell	 
+Introduction to Python	 
+Introduction to Computation	 
+Introduction to Artificial Intelligence	 
+Introduction to Database Systems	 
+Foundations of Computer Graphics	 
+XML Foundations	 
+Science of Sound	 
+Numerical Methods of Applied Mathematics II	 
+Infinite Random Matrix Theory	 
+Computation Structures	 
+Signals and Systems	 
+Quantum Computation	 
+Advanced Topics in Cryptography	 
+Transmission of Information	 
+Computer System Architecture	 
+Techniques in Artificial Intelligence	 
+Principles of Computer Systems	 
+Artificial Intelligence	 
+Data Communication Networks	 
+Automatic Speech Recognition	 
+Computer Networks	 
+User Interface Design and Implementation	 
+Network Optimization	 
+Introduction to Computer Science	 
+Programming in C	 
+Intro to Software Engineering (Java, Haskell)	 
+Computational Complexity Theory	 
+Object Oriented Programming with Java	 
+Introduction to Cryptography	 
+Information Security	 
+Advanced Cryptography	 
+Operating System Engineering	 
+Foundations of Computer Science (ML)	 
+Introduction to Computer Systems	 
+Foundations of Programming Languages	 
+Linear Logic	 
