@@ -1,0 +1,151 @@
+Sanburg	The Beauty and Joy of Computing	 
+Bobowiec	Analysis of Algorithms	 
+Krasnansky	Understanding Computers and the Internet	 
+Hasper	Beginning iOS SDK Programming	 
+Kossow	Practical Aspects of Modern Cryptography	 
+Bovie	Computer Language Engineering	 
+Skidmore	Programming Languages	 
+Orouke	Building Mobile Applications - Android/iOS Apps	 
+Dileonardo	Search Engines: Technology, Society, and Business	 
+Brus	The Structure and Interpretation of Computer Programs	 
+Medina	Programming Languages and Compilers	 
+Blemel	Introduction to Computer Science and Programming	 
+Sams	Data Structures	 
+Therrien	Computer Science 1	 
+Ma	Structure and Interpretation of Computer Programs	 
+Garhart	Donald Knuth: Musings and More (Video Collection)	 
+Stemarie	How I Invented the Personal Computer (Steve Wozniak)	 
+Sharif	Data Structures and Advanced Programming (Java)	 
+Sakakeeny	Introduction to Symbolic Programming	 
+Coley	Circuits and Electronics	 
+Bussmann	3D Modeling, Animation and Rendering with Blender	 
+Obholz	Data Structures and Advanced Programming	 
+Villarrvel	Vision Algorithms	 
+Suganuma	Principles of Digital Communication II	 
+Kolupke	iPhone Application Development	 
+Kuzio	Human Beings and the Machines of Sunshine	 
+Borgella	Compilers: Principles, Techniques, and Tools	 
+Selic	Personal Robots	 
+Harvilicz	Building Very Small Mobile Micro-Robots	 
+Elson	Computational Camera and Photography	 
+Chabotte	Creating a Science of Games	 
+Bissol	Sky.NET Simulations	 
+Bowron	Software Breakthroughs (Bill Gates)	 
+Nesbitt	Alan Turing: Codebreaker and AI Pioneer	 
+Parviainen	The Semantic Web (Tim Berners-Lee)	 
+Cromedy	Introduction to Embedded Systems	 
+Jeoffroy	Functional Programming in Scheme	 
+Bullers	Introduction to Computing Systems	 
+Lautman	Reshaping Space, Time and Energy	 
+Cress	Computers in Our World (Brian Kernighan)	 
+Faubel	Introduction to Computer Graphics	 
+Yamakawa	Introduction to Computer Graphics	 
+Deangelis	Logic Programming	 
+Happney	Game Programming	 
+Hargett	Principles of Computer Systems	 
+Munsterman	Introduction to Database Systems	 
+Modisette	Techniques in Artificial Intelligence	 
+Farnes	Computer System Architecture	 
+Sellin	Introduction to Artificial Intelligence	 
+Trowell	Introduction to Java	 
+Killibrew	Introduction to Programming (Java)	 
+Jasik	Computational Molecular Biology	 
+Ruthers	Machine Learning	 
+Shaff	Computer Communication and Networks	 
+Fors	Tools for Software Development	 
+Brosnan	Software Engineering	 
+Exon	Formal Models in Computer Science	 
+Higgs	Data Structures	 
+Bowser	Machine Organization and Assembly	 
+Labkovsky	Introduction to Database Systems	 
+Lessmann	Operating Systems	 
+Stakley	Advanced Internet and Web Services	 
+Okutsu	Computer Vision	 
+Hecker	Software for Embedded Systems	 
+Swalley	Advanced Digital Design	 
+Muro	Computer Design and Organization	 
+Morang	Introduction to Artificial Intelligence	 
+Divens	Introduction to Data Compression	 
+Masey	Neurobotics	 
+Doten	Computer Systems	 
+Coult	Artificial Intelligence	 
+Lawyer	Algorithms and Computational Complexity	 
+Mckerlie	Implementation of Programming Languages	 
+Pilapil	Software Engineering	 
+Wygal	Computational Neuroscience	 
+Knudsen	Data Mining	 
+Rosato	Computer Graphics: Visualization	 
+Pesina	Image and Video Analysis	 
+Bercher	Quantum Computing	 
+Blasenhauer	Programming Languages (Haskell)	 
+Tegarden	Computer Vision	 
+Memmott	Programming Languages (Scheme)	 
+Deegan	Database Systems	 
+Krumsiek	Real-Time Rendering	 
+Voncannon	Introduction to Computer Graphics	 
+Recio	Animation	 
+Gali	Image Synthesis	 
+Pfeister	Big Data in Computer Graphics	 
+Ponzi	Advanced Computer Graphics	 
+Seroka	Game Design	 
+Kircher	Information Visualization	 
+Soisson	Introduction to Computation (Java)	 
+Minardi	Computer Graphics	 
+Cabotage	Grid Computing	 
+Ebach	Computer Graphics	 
+Flegel	Principles of Digital Communication I	 
+Sadowski	Input/Output-Algorithms	 
+Starrick	Communication System Design	 
+Lopiccalo	Microelectronic Devices and Circuits	 
+Streiff	Software Engineering Concepts	 
+Bliven	Logic II	 
+Warneke	Fundamentals of Computing (Python)	 
+Katsch	Applied Parallel Computing	 
+Geiss	Multithreaded Parallelism: Languages and Compilers	 
+Dominick	Introduction to C++	 
+Hartjen	Programming Languages and Translators	 
+Guice	Introduction to Algorithms - Python	 
+Colbeth	Ambient Intelligence	 
+Kingwood	Programming Principles in Java	 
+Okolo	Data Structures and Algorithms	 
+Leedy	Introduction to C	 
+Redner	Introduction to C++	 
+Loessberg	Advanced C++	 
+Sliwa	Introduction to Java	 
+Fuda	Introduction to Haskell	 
+Carwin	Introduction to Python	 
+Lambuth	Introduction to Computation	 
+Guiel	Introduction to Artificial Intelligence	 
+Kressin	Introduction to Database Systems	 
+Shae	Foundations of Computer Graphics	 
+Kauahi	XML Foundations	 
+Packen	Science of Sound	 
+Kainoa	Numerical Methods of Applied Mathematics II	 
+Fillingham	Infinite Random Matrix Theory	 
+Vollmers	Computation Structures	 
+Sarkin	Signals and Systems	 
+Warga	Quantum Computation	 
+Criley	Advanced Topics in Cryptography	 
+Sagel	Transmission of Information	 
+Twiet	Computer System Architecture	 
+Mockler	Techniques in Artificial Intelligence	 
+Minerich	Principles of Computer Systems	 
+Heeth	Artificial Intelligence	 
+Stowell	Data Communication Networks	 
+Huyard	Automatic Speech Recognition	 
+Sil	Computer Networks	 
+Kupec	User Interface Design and Implementation	 
+Philbrook	Network Optimization	 
+Lobdell	Introduction to Computer Science	 
+Kater	Programming in C	 
+Chheng	Intro to Software Engineering (Java, Haskell)	 
+Greeley	Computational Complexity Theory	 
+Kolodziej	Object Oriented Programming with Java	 
+Evitts	Introduction to Cryptography	 
+Macaraeg	Information Security	 
+Patocka	Advanced Cryptography	 
+Soltau	Operating System Engineering	 
+Moellers	Foundations of Computer Science (ML)	 
+Annan	Introduction to Computer Systems	 
+Vieira	Foundations of Programming Languages	 
+Tolomeo	Linear Logic	 
