@@ -10,6 +10,7 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.Arrays;
 
 /**
  *
@@ -50,7 +51,11 @@ public class Main {
        {
            professors[i]= new Professor(professorStrings[i]);
        }
-
+       Course [] courses = new Course[coursesStrings.length];
+       for (int i=0;i<coursesStrings.length;i++)
+       {
+            courses[i]= new Course(Math.random()>0.5?true:false, coursesStrings[i], professors[i], getStudentsRange(students));
+       }
 
     }
 
@@ -71,8 +76,10 @@ public class Main {
             int lines =0;
             while (bufferedReader!=null && bufferedReader.ready())
             {
-                bufferedReader.readLine();
-                lines++;
+               if ((bufferedReader.readLine()).equals(""))
+               {
+                   lines++;
+               }
             }
 
             strings = new String[lines];
@@ -89,6 +96,20 @@ public class Main {
           System.out.print(e+"\n");
         }
 
+    }
+
+    public static Student [] getStudentsRange (Student [] students)
+    {
+        int border_a = (int)Math.round(Math.random()*students.length*1000)%students.length;
+        int border_b = (int)Math.round(Math.random()*students.length*1000)%students.length;
+
+        if (border_a<border_b)
+        {
+            int tmp = border_a;
+            border_a = border_b;
+            border_b = tmp;
+        }
+        return  Arrays.copyOfRange(students,border_a,border_b);        
     }
 
 }
